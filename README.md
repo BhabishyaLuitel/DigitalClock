@@ -1,2 +1,2 @@
 # DigitalClock
-Simple Digital using JavaScript
+Simple Digital Clock using JavaScript
