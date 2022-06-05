@@ -1,0 +1,16 @@
+#clock {
+    font-size: 175px;
+    width: 900px;
+    margin: 250px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+    font-family: "Times New Roman", Times, serif;
+    color: rgb(199, 6, 6);
+    margin-left: 300px;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
