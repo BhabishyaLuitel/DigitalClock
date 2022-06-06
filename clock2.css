@@ -1,16 +1,27 @@
 #clock {
     font-size: 175px;
+    /* Font size of the clock */
     width: 900px;
+    /* Width of the clock */
     margin: 250px;
+    /* Margin of the clock */
     text-align: center;
+    /* Text align of the clock */
     border: 2px solid black;
+    /* Border of the clock */
     border-radius: 20px;
+    /* Border radius of the clock */
     background-color: rgb(0, 0, 0);
+    /* Background color of the clock */
     font-family: "Times New Roman", Times, serif;
+    /* Font family of the clock */
     color: rgb(199, 6, 6);
+    /* Color of the clock */
     margin-left: 300px;
+    /* Margin left of the clock */
 }
 
 body {
     background-color: rgb(0, 0, 0);
+    /* Background color of the body */
 }
